@@ -16,7 +16,7 @@
 
 .logo a:hover {
 	text-decoration: none;
-	color:red;
+	color:rgb(200, 236, 176);
 }
 
 .logo a> span {
